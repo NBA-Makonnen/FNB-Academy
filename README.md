@@ -1,2 +1,2 @@
 # FNB-Academy P1
-This is a repo to display all the app I have developed during my App Develop Course
+The App was built using HTML and I used CSS for the styling of the app. 
